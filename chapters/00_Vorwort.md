@@ -293,16 +293,16 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Ritter Francesco Gonella.](#b0IX)
 * [Ritter Viktor Sella](#b00X)
 * [Dr. Filippo De Filippi.](#b0XI)
-* Kommandobrücke der Lucania.
-* Statue der Freiheit in Neuyork.
-* Neuyork vom Hafen aus
-* Sierra Nevada.
-* Uebersetzen des Eisenbahnzuges auf einem Ferryboat.
-* Sacramentothal in Kalifornien.
-* Shastavulkan.
-* Bahnhof in Kalifornien
-* Ferryboat auf dem Columbiastrom.
-* Seattle vom Meer aus.
+* [Kommandobrücke der Lucania.](ch003.xhtml#b007)
+* [Statue der Freiheit in Neuyork.](ch003.xhtml#b008)
+* [Neuyork vom Hafen aus.](ch003.xhtml#b009)
+* [Sierra Nevada.](ch003.xhtml#b011)
+* [Uebersetzen des Eisenbahnzuges auf einem Ferryboat.](ch003.xhtml#b012)
+* [Sacramentothal in Kalifornien.](ch003.xhtml#b014)
+* [Shastavulkan.](ch003.xhtml#b015)
+* [Bahnhof in Kalifornien.](ch003.xhtml#b016)
+* [Ferryboat auf dem Columbiastrom.](ch003.xhtml#b017a)
+* [Seattle vom Meer aus.](ch003.xhtml#b017b)
 * Im Pugetsound.
 * Im Pugetsound.
 * Kõnigin-Charlottesound.
