@@ -303,20 +303,20 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Bahnhof in Kalifornien.](ch003.xhtml#b016)
 * [Ferryboat auf dem Columbiastrom.](ch003.xhtml#b017a)
 * [Seattle vom Meer aus.](ch003.xhtml#b017b)
-* Im Pugetsound.
-* Im Pugetsound.
-* Kõnigin-Charlottesound.
-* In den Kanälen des Archipels.
-* Wrangleinsel.
-* Im Alexanderarchipel.
-* Wrangelinsel
-* Totem im Fort Wrangel.
-* Juneau.
-* Juneaubai.
-* Eine Strasse in Juneau.
-* Juneau vom Meer aus.
-* Kirche in Juneau.
-* Goldbergwerk Creadwell.
+* [Im Pugetsound.](ch004.xhtml#b020)
+* [Im Pugetsound.](ch004.xhtml#b021)
+* [Königin-Charlottesound.](ch004.xhtml#b022)
+* [In den Kanälen des Archipels.](ch004.xhtml#b023)
+* [Maryinsel.](ch004.xhtml#b024)
+* [Im Alexanderarchipel.](ch004.xhtml#b025a)
+* [Wrangelinsel.](ch004.xhtml#b026)
+* [Totem im Fort Wrangel.](ch004.xhtml#b027)
+* [Juneau.](ch004.xhtml#b028)
+* [Juneaubai.](ch004.xhtml#b029)
+* [Eine Strasse in Juneau.](ch004.xhtml#b030)
+* [Juneau vom Meer aus.](ch004.xhtml#b031)
+* [Kirche in Juneau.](ch004.xhtml#b032)
+* [Goldbergwerk Creadwell.](ch004.xhtml#b033)
 * Eisberg in der Glacierbai.
 * In der Glacierbai.
 * Eisberge in der Glacierbai.
@@ -409,8 +409,8 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 ## Verzeichnis der Tafeln.
 
 * [Se. K. H. der Herzog Luigi Amedeo di Savoia.](ch001.xhtml#b000)
-* Abend in den Gewässern von Alaska.
-* La Perouse, Crillon, Fairweather, von der Glacierbai gesehen.
+* [Abend in den Gewässern von Alaska.](ch004.xhtml#b025)
+* [La Perouse, Crillon, Fairweather, von der Glacierbai gesehen.](ch004.xhtml#b032a)
 * Der Muirgletscher.
 * Sitka.
 * Yakutat.

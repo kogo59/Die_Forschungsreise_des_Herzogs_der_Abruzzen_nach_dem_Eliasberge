@@ -1,6 +1,5 @@
 # Erstes Kapitel.<br />**Von Turin nach Seattle.** {#erstes .unnumbered}
 
-
 ::: justified
 
 :::: { .float-left .w-50 }
@@ -292,7 +291,7 @@ zahlloser Lichter, welche die geometrisch regelmässig angelegten Strassen
 erkennen liessen.
 
 In San Francisco nahmen wir die Vorbereitungsarbeiten für die Expedition wieder
-aus. Zunächst war nach den Plänen, welche der Herzog uns auf der Bahn
+auf. Zunächst war nach den Plänen, welche der Herzog uns auf der Bahn
 ausführlich mitgeteilt und bis ins kleinste ausgearbeitet hatte, für die
 Verproviantierung der Karawane zu sorgen. Bald war auch der Salon des Herzogs
 reich besetzt mit Mustern von Zwieback, Büchsenfleisch, konservierten Suppen,
@@ -391,7 +390,7 @@ das Gefühl, als schwebe man über dem Abgrunde, ohne eine sichere Grundlage.
 
 Am Morgen des 11. Juni langten wir in dem Staate Washington an, indem wir auf
 einem ungeheuren Ferryboat, welches den ganzen Zug aufnahm, über den Riesenstrom
-Columbia setzien. Der Strom ist zwischen niedrige Hügel eingebettet, die von
+Columbia setzten. Der Strom ist zwischen niedrige Hügel eingebettet, die von
 Fichtenhainen bedeckt sind; zahllose Dampfboote und mächtige Flösse belebten
 ihn, das Hochwasser hatte die ganze Thalbreite, bis auf einen schmalen Rand, der
 gerade dem Bahnkörper Platz liess, ausgefüllt. Um 6 Uhr nachmittags kamen wir in
@@ -415,7 +414,7 @@ harren.
 
 Fünf Tage vor unserer Ankunft war aus Seattle der Schoner Aggie, welchen der
 Herzog gechartert hatte, abgesegelt; auf demselben befanden sich zehn
-amerikanische Träger, die von einem gewissen Ingraham, den Professor Russel und
+amerikanische Träger, die von einem gewissen Ingraham, den Professor Russell und
 Professor Fay dem Herzog empfohlen, ausgewählt und für die Reise engagiert
 waren. Ingraham hatte für sich und für seine Leute das Lagermaterial und die
 Lebensmittel auf zwei Monate selbst besorgt. Die Aggie hatte den Befehl, Sitka
