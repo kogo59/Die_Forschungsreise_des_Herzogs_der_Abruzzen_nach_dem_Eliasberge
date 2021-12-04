@@ -317,17 +317,17 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Juneau vom Meer aus.](ch004.xhtml#b031)
 * [Kirche in Juneau.](ch004.xhtml#b032)
 * [Goldbergwerk Creadwell.](ch004.xhtml#b033)
-* Eisberg in der Glacierbai.
-* In der Glacierbai.
-* Eisberge in der Glacierbai.
-* Eisstrom in der Moräne des Muirgletschers.
-* Die City of Copeca in der Glacierbai.
-* Ausflug auf den Muirgletscher.
-* Indianer in der Glacierbai.
-* Die Sitkabai.
-* Sitka vom Meer aus.
-* Sitka.
-* Kirche in Sitka.
+* [Eisberg in der Glacierbai.](ch005.xhtml#b035)
+* [In der Glacierbai.](ch005.xhtml#b036)
+* [Eisberge in der Glacierbai.](ch005.xhtml#b037)
+* [Eisstrom in der Moräne des Muirgletschers.](ch005.xhtml#b038)
+* [Die City of Topeca in der Glacierbai.](ch005.xhtml#b041)
+* [Ausflug auf den Muirgletscher.](ch005.xhtml#b042)
+* [Indianer in der Glacierbai.](ch005.xhtml#b043)
+* [Die Sitkabai.](ch005.xhtml#b044)
+* [Sitka vom Meer aus.](ch005.xhtml#b045)
+* [Sitka.](ch005.xhtml#b047)
+* [Kirche in Sitka.](ch005.xhtml#b048)
 * Der Eliasberg vom Libbeygletscher aus
 * Westküste der Bai von Yakutat.
 * Westküste der Bai von Yakutat und Moräne des Malaspina.
@@ -411,8 +411,8 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Se. K. H. der Herzog Luigi Amedeo di Savoia.](ch001.xhtml#b000)
 * [Abend in den Gewässern von Alaska.](ch004.xhtml#b025)
 * [La Perouse, Crillon, Fairweather, von der Glacierbai gesehen.](ch004.xhtml#b032a)
-* Der Muirgletscher.
-* Sitka.
+* [Der Muirgletscher.](ch005.xhtml#b040)
+* [Sitka.](ch005.xhtml#b049)
 * Yakutat.
 * An der Mündung des Osar.
 * Am Fusse der Moräne des Malaspina.
