@@ -335,10 +335,10 @@ Küste gefährlich, ja oft unmöglich ist. Die Küste wird von dem riesenhaftest
 Bollwerk beherrscht, welches die Natur auf dem Meere geschaffen hat, der Kette
 La Pérouse (3400 m), Crillon (4800&nbsp;m) und Fairweather (4700&nbsp;m). Nördlich von dem
 letzteren senkt sich die Gebirgskette, immer parallel zur Küste laufend, so dass
-sie hier nur noch 1500—2000&nbsp;m hohe Gipfel hat, bis zur Bai von Yakutat herab;
-dann erhebt sie sich wieder plötzlich mit dem Vancouver (3700&nbsp;m), dem Cook (4510&nbsp;m)
-und der Augusta (4560&nbsp;m), um schliesslich mit dem Eliasberge 5500&nbsp;m Höhe zu
-ereichen.
+sie hier nur noch 1500—2000&nbsp;m hohe Gipfel hat, bis zur Bai von Yakutat
+herab; dann erhebt sie sich wieder plötzlich mit dem Vancouver^[^0312]^ (3700&nbsp;m),
+dem Cook^[^0310]^ (4510&nbsp;m) und der Augusta^[^0311]^ (4560&nbsp;m), um
+schliesslich mit dem Eliasberge 5500&nbsp;m Höhe zu ereichen.
 
 :::: { .w-50 .float-left }
 ![Kirche in Sitka.](Die_Forschungsreise_048.jpg "Kirche in Sitka."){#b048}
@@ -444,3 +444,9 @@ konnten an die Lösung der uns gestellten Aufgabe gehen.
 [^0308]: [*Bai von Yakutat*: vergleiche [Yakutat Bay](https://de.wikipedia.org/wiki/Yakutat_Bay)]{.footnote}
 
 [^0309]: [*Vancouver*: vergleiche [George Vancouver](https://de.wikipedia.org/wiki/George_Vancouver)]{.footnote}
+
+[^0310]: [*Cook*: vergleiche [Mount Cook](https://en.wikipedia.org/wiki/Mount_Cook_(Saint_Elias_Mountains))]{.footnote}
+
+[^0311]: [*Augusta*: vergleiche [Mount Augusta](https://de.wikipedia.org/wiki/Mount_Augusta)]{.footnote}
+
+[^0312]: [*Vancouver*: vergleiche [Mount Vancouver](https://en.wikipedia.org/wiki/Mount_Vancouver)]{.footnote}

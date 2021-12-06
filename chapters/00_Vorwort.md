@@ -328,7 +328,7 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Sitka vom Meer aus.](ch005.xhtml#b045)
 * [Sitka.](ch005.xhtml#b047)
 * [Kirche in Sitka.](ch005.xhtml#b048)
-* Der Eliasberg vom Libbeygletscher aus
+* [Der Eliasberg vom Libbeygletscher aus.](ch006.xhtml#b067)
 * Westküste der Bai von Yakutat.
 * Westküste der Bai von Yakutat und Moräne des Malaspina.
 * Hochgras am Ufer
@@ -413,8 +413,8 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [La Perouse, Crillon, Fairweather, von der Glacierbai gesehen.](ch004.xhtml#b032a)
 * [Der Muirgletscher.](ch005.xhtml#b040)
 * [Sitka.](ch005.xhtml#b049)
-* Yakutat.
-* An der Mündung des Osar.
+* [Yakutat.](ch006.xhtml#b056)
+* [An der Mündung des Osar.](ch006.xhtml#b064)
 * Am Fusse der Moräne des Malaspina.
 * S. Elias, vom Malaspinagletscher aus gesehen.
 * Auf dem Sewardgletscher — Rückreise.

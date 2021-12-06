@@ -330,7 +330,7 @@ jeder Weise zu fördern.
 
 Die Alaska-Commercial-Company kam uns entgegen, indem sie den Kurs eines ihrer
 Dampfschiffe um ein geringes änderte und uns so Gelegenheit bot, die Strecke
-zwischen Sitka und Lakutat zurückzulegen, wo sonst keine regelmässige
+zwischen Sitka und Yakutat zurückzulegen, wo sonst keine regelmässige
 Schiffahrtslinie vorhanden ist.
 
 :::: { .wrap-100 }
