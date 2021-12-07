@@ -329,26 +329,26 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Sitka.](ch005.xhtml#b047)
 * [Kirche in Sitka.](ch005.xhtml#b048)
 * [Der Eliasberg vom Libbeygletscher aus.](ch006.xhtml#b067)
-* Westküste der Bai von Yakutat.
-* Westküste der Bai von Yakutat und Moräne des Malaspina.
-* Hochgras am Ufer
-* Lager auf der Westküste der Bai von Yakutat.
-* Blühende Erdbeeren in der Nähe des ersten Lagers
-* Der Osarstrom.
-* Der Osar und der Wald
-* Die Malaspinamoräne. Hervorbrechen eines Sturzbaches aus einem Eistunnel.
-* Lager auf der Höhe der Moräne.
-* Am Rande des Malaspinagletschers.
-* Montierter Schlitten.
-* Beladene Schlitten auf dem Malaspina.
-* Whymperzelt.
-* Mummeryzelt.
-* Schlitten beim Uebersetzen eines Eisstroms
-* Uebergang über einen Eisstrom.
-* Lager auf dem Malaspina.
-* Auf dem Malaspina.
-* Lager an der Hitchcockkette.
-* Rebhuhn auf den Hitchcockhügeln.
+* [Westküste der Bai von Yakutat.](ch007.xhtml#b072a)
+* [Westküste der Bai von Yakutat und Moräne des Malaspina.](ch007.xhtml#b073a)
+* [Hochgras am Ufer.](ch007.xhtml#b074)
+* [Lager auf der Westküste der Bai von Yakutat.](ch007.xhtml#b075)
+* [Blühende Erdbeeren in der Nähe des ersten Lagers.](ch007.xhtml#b077)
+* [Der Osarstrom.](ch007.xhtml#b080)
+* [Der Osar und der Wald.](ch007.xhtml#b081)
+* [Die Malaspinamoräne. Hervorbrechen eines Sturzbaches aus einem Eistunnel.](ch007.xhtml#b084)
+* [Lager auf der Höhe der Moräne.](ch007.xhtml#b088)
+* [Am Rande des Malaspinagletschers.](ch007.xhtml#b089)
+* [Montierter Schlitten.](ch007.xhtml#b091)
+* [Beladene Schlitten auf dem Malaspina.](ch007.xhtml#b092)
+* [Whymperzelt.](ch007.xhtml#b093a)
+* [Mummeryzelt.](ch007.xhtml#b093b)
+* [Schlitten beim Uebersetzen eines Eisstroms.](ch007.xhtml#b097)
+* [Uebergang über einen Eisstrom.](ch007.xhtml#b098)
+* [Lager auf dem Malaspina.](ch007.xhtml#b099)
+* [Auf dem Malaspina.](ch007.xhtml#b101)
+* [Lager an der Hitchcockkette.](ch007.xhtml#b102)
+* [Rebhuhn auf den Hitchcockhügeln.](ch007.xhtml#b103)
 * Zugangscouloir zum Seward.
 * Die Séracs des Sewardgletschers. Der Augusta- und Malaspinaberg.
 * Lager auf dem Hitchcockgletscher.
@@ -415,12 +415,12 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Sitka.](ch005.xhtml#b049)
 * [Yakutat.](ch006.xhtml#b056)
 * [An der Mündung des Osar.](ch006.xhtml#b064)
-* Am Fusse der Moräne des Malaspina.
-* S. Elias, vom Malaspinagletscher aus gesehen.
-* Auf dem Sewardgletscher — Rückreise.
-* S. Elias, vom Pinnaclegletscher aus gesehen.
-* Auf dem Sewardgletscher bei Sonnenuntergang.
-* S. Elias, vom Sewardgletscher bei Sonnenuntergang.
+* [Am Fusse der Moräne des Malaspina.](ch007.xhtml#b073)
+* [S. Elias, vom Malaspinagletscher aus gesehen.](ch007.xhtml#b080a)
+* [Auf dem Sewardgletscher — Rückreise.](ch007.xhtml#b088a)
+* [S. Elias, vom Pinnaclegletscher aus gesehen.](ch007.xhtml#b096)
+* [Auf dem Sewardgletscher bei Sonnenuntergang.](ch007.xhtml#b100)
+* [S. Elias, vom Sewardgletscher bei Sonnenuntergang.](ch007.xhtml#b104)
 * S. Elias, vom Sewardgletscher aus gesehen, abends.
 * Die Augustaspitze, vom Sewardgletscher aus gesehen.
 * Das Cookmassiv. vom Sewardgletscher aus gesehen.
