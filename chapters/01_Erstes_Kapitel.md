@@ -367,7 +367,7 @@ schon durcheilten Bahnstrecke hinschlängelt.
 
 Des Nachts bei Mondlicht erscheint der Wald zauberhaft.
 
-:::: { . .float-left }
+:::: { .w-50 .float-left }
 ![Bahnhof in Kalifornien.](Die_Forschungsreise_016.jpg "Bahnhof in Kalifornien."){#b016}
 ::::
 

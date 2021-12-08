@@ -349,34 +349,34 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Auf dem Malaspina.](ch007.xhtml#b101)
 * [Lager an der Hitchcockkette.](ch007.xhtml#b102)
 * [Rebhuhn auf den Hitchcockhügeln.](ch007.xhtml#b103)
-* Zugangscouloir zum Seward.
-* Die Séracs des Sewardgletschers. Der Augusta- und Malaspinaberg.
-* Lager auf dem Hitchcockgletscher.
-* Abfluss des Pinnaclegletschers in den Seward.
-* Der Eliasberg und der Sewardgletscher unter dem Pinnaclegletscher
-* Auf dem Pinnaclegletscher. Cookberg.
-* Nordwand des Pinnaclepasses.
-* Westabhang der Hitchcockkette und die linke Seite des Seward, vom Fusse des Pinnaclegletschers aus gesehen.
-* Blühende Lupinen unter dem Eisfall des Pinnaclegletschers.
-* Blühender Abhang am Fusse der Hitchcockhügels.
-* Die Hitchcockberge vom Russellschen Lager aus.
-* Der Owenberg vom Point GIorious.
-* Sewardgletscher (Mittelteil).
-* Beim Ueberschreiten des Seward
-* Der Augustaberg vom Seward.
-* Lager auf dem Seward.
-* Auf dem Seward bei dem Dompass, Blick nach Osten.
-* Lager auf dem Seward am Fusse des Dompasses, Blick nach Westen.
-* Dompass.
-* Lager auf dem Agassizgletscher, am Fusse des Dompasses.
-* Lager auf dem Dompass.
-* Beim Uebergang über den Agassizgletscher.
-* Eiswölbung über einem kleinen See des Agassizgletscher
-* Lager am Fusse des Newtongletschers.
+* [Zugangscouloir zum Seward.](ch008.xhtml#b108)
+* [Die Séracs des Sewardgletschers. Der Augusta- und Malaspinaberg.](ch008.xhtml#b109)
+* [Lager auf dem Hitchcockgletscher.](ch008.xhtml#b110)
+* [Abfluss des Pinnaclegletschers in den Seward.](ch008.xhtml#b111)
+* [Der Eliasberg und der Sewardgletscher unter dem Pinnaclegletscher.](ch008.xhtml#b112)
+* [Auf dem Pinnaclegletscher. Cookberg.](ch008.xhtml#b113)
+* [Nordwand des Pinnaclepasses.](ch008.xhtml#b114)
+* [Westabhang der Hitchcockkette und die linke Seite des Seward, vom Fusse des Pinnaclegletschers aus gesehen.](ch008.xhtml#b116)
+* [Blühende Lupinen unter dem Eisfall des Pinnaclegletschers.](ch008.xhtml#b118)
+* [Blühender Abhang am Fusse der Hitchcockhügels.](ch008.xhtml#b119)
+* [Die Hitchcockberge vom Russellschen Lager aus.](ch008.xhtml#b120)
+* [Der Owenberg vom Point Glorious.](ch008.xhtml#b121)
+* [Sewardgletscher (Mittelteil).](ch008.xhtml#b122)
+* [Beim Ueberschreiten des Seward.](ch008.xhtml#b125)
+* [Der Augustaberg vom Seward.](ch008.xhtml#b126a)
+* [Lager auf dem Seward.](ch008.xhtml#b126b)
+* [Auf dem Seward bei dem Dompass, Blick nach Osten.](ch008.xhtml#b127)
+* [Lager auf dem Seward am Fusse des Dompasses, Blick nach Westen.](ch008.xhtml#b128)
+* [Dompass.](ch008.xhtml#b129)
+* [Lager auf dem Agassizgletscher, am Fusse des Dompasses.](ch008.xhtml#b130)
+* [Lager auf dem Dompass.](ch008.xhtml#b131)
+* [Beim Uebergang über den Agassizgletscher.](ch008.xhtml#b132)
+* [Eiswölbung über einem kleinen See des Agassizgletscher.](ch008.xhtml#b134)
+* [Lager am Fusse des Newtongletschers.](ch008.xhtml#b135)
 * Schlussfall des Newtongletschers. Von der Karawane eingeschlagener Weg.
 * Von der zweiten Plattform des Newtongletschers nach Osten zu.
 * Von der zweiten Plattform des Newtongletschers. Nördlicher Ausläufer des Thals.
-* Oestllicher Ausläufer des Eliasberges.
+* Oestlicher Ausläufer des Eliasberges.
 * Kleiner See zwischen den Séracs des Newtongletschers.
 * Der Eliasberg vom zweiten Eisfall des Newtongletschers.
 * Lager auf dem Newton nach dem Schneefall.
@@ -421,12 +421,12 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [S. Elias, vom Pinnaclegletscher aus gesehen.](ch007.xhtml#b096)
 * [Auf dem Sewardgletscher bei Sonnenuntergang.](ch007.xhtml#b100)
 * [S. Elias, vom Sewardgletscher bei Sonnenuntergang.](ch007.xhtml#b104)
-* S. Elias, vom Sewardgletscher aus gesehen, abends.
-* Die Augustaspitze, vom Sewardgletscher aus gesehen.
-* Das Cookmassiv. vom Sewardgletscher aus gesehen.
-* Auf dem Agassizgletscher am Abend.
-* Oestliche Rusläufer des S. Elias.
-* Auf dem Newtongletscher.
+* [S. Elias, vom Sewardgletscher aus gesehen, abends.](ch008.xhtml#b108)
+* [Die Augustaspitze, vom Sewardgletscher aus gesehen.](ch008.xhtml#b112a)
+* [Das Cookmassiv, vom Sewardgletscher aus gesehen.](ch008.xhtml#b120a)
+* [Auf dem Agassizgletscher am Abend.](ch008.xhtml#b128a)
+* [Oestliche Ausläufer des S. Elias.](ch008.xhtml#b133)
+* [Auf dem Newtongletscher.](ch008.xhtml#b136)
 * Im Newtonthal — Der Nebel zerteilt sich.
 * Auf den „Séracs“ des Newtongletscher.
 * Biwak auf dem Newtongletscher, S. Elias, Russells Col und Newtonspitze

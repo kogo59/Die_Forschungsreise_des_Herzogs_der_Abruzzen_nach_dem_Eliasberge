@@ -922,7 +922,7 @@ des Sewardgletschers, 519&nbsp;m über dem Meeresspiegel. Dies ist der höchste 
 des östlichen Riesenlappens des Malaspina, welcher von hier aus nach dem Stillen
 Ozean und nach der Yakutatbai zu abfällt.
 
-Der darauffolgende Tag (4. Juli) ist der Jahrestag der Unabhãngigkeitserklärung
+Der darauffolgende Tag (4. Juli) ist der Jahrestag der Unabhängigkeitserklärung
 der Vereinigten Staaten, und der Prinz hatte gestattet, dass die Amerikaner ihn
 als Ruhetag feierten. Dort oben, auf halber Höhe der Hügel, wehte dann von ihrem
 Zelte eine kleine amerikanische Flagge, die sie mitführten, im Winde.
