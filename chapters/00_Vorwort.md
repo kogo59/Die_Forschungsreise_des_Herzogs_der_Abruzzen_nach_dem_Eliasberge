@@ -358,7 +358,7 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Nordwand des Pinnaclepasses.](ch008.xhtml#b114)
 * [Westabhang der Hitchcockkette und die linke Seite des Seward, vom Fusse des Pinnaclegletschers aus gesehen.](ch008.xhtml#b116)
 * [Blühende Lupinen unter dem Eisfall des Pinnaclegletschers.](ch008.xhtml#b118)
-* [Blühender Abhang am Fusse der Hitchcockhügels.](ch008.xhtml#b119)
+* [Blühender Abhang am Fusse des Hitchcockhügels.](ch008.xhtml#b119)
 * [Die Hitchcockberge vom Russellschen Lager aus.](ch008.xhtml#b120)
 * [Der Owenberg vom Point Glorious.](ch008.xhtml#b121)
 * [Sewardgletscher (Mittelteil).](ch008.xhtml#b122)
@@ -373,21 +373,21 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Beim Uebergang über den Agassizgletscher.](ch008.xhtml#b132)
 * [Eiswölbung über einem kleinen See des Agassizgletscher.](ch008.xhtml#b134)
 * [Lager am Fusse des Newtongletschers.](ch008.xhtml#b135)
-* Schlussfall des Newtongletschers. Von der Karawane eingeschlagener Weg.
-* Von der zweiten Plattform des Newtongletschers nach Osten zu.
-* Von der zweiten Plattform des Newtongletschers. Nördlicher Ausläufer des Thals.
-* Oestlicher Ausläufer des Eliasberges.
-* Kleiner See zwischen den Séracs des Newtongletschers.
-* Der Eliasberg vom zweiten Eisfall des Newtongletschers.
-* Lager auf dem Newton nach dem Schneefall.
-* Lager auf dem Newtongletscher am Abend.
-* Der Eliasberg und die Séracs des Newtongletscher.
-* Der Eliasberg und der dritte Eisfall des Newton nach Sonnenuntergang.
-* Newtonberg und dritter Eisfall des Gletschers.
-* Südwand des Newtongletschers und des Savoyagletschers bei seiner Einmündung in den Newton.
-* Lager am Fusse eines Séracs, auf dem dritten Eisfall des Newtongletschers.
-* Der Newtonberg vom dritten Eisfall aus.
-* Der Eliasberg vom dritten Eisfall des Newton aus.
+* [Schlussfall des Newtongletschers. Von der Karawane eingeschlagener Weg.](ch009.xhtml#b138)
+* [Von der zweiten Plattform des Newtongletschers nach Osten zu.](ch009.xhtml#b140)
+* [Von der zweiten Plattform des Newtongletschers. Nördlicher Ausläufer des Thals.](ch009.xhtml#b142)
+* [Oestlicher Ausläufer des Eliasberges.](ch009.xhtml#b144)
+* [Kleiner See zwischen den Séracs des Newtongletschers.](ch009.xhtml#b146)
+* [Der Eliasberg vom zweiten Eisfall des Newtongletschers.](ch009.xhtml#b147)
+* [Lager auf dem Newton nach dem Schneefall.](ch009.xhtml#b148)
+* [Lager auf dem Newtongletscher am Abend.](ch009.xhtml#b150)
+* [Der Eliasberg und die Séracs des Newtongletscher.](ch009.xhtml#b151)
+* [Der Eliasberg und der dritte Eisfall des Newton nach Sonnenuntergang.](ch009.xhtml#b152)
+* [Newtonberg und dritter Eisfall des Gletschers.](ch009.xhtml#b154)
+* [Südwand des Newtongletschers und des Savoyagletschers bei seiner Einmündung in den Newton.](ch009.xhtml#b156)
+* [Lager am Fusse eines Séracs, auf dem dritten Eisfall des Newtongletschers.](ch009.xhtml#b157a)
+* [Der Newtonberg vom dritten Eisfall aus.](ch009.xhtml#b158)
+* [Der Eliasberg vom dritten Eisfall des Newton aus.](ch009.xhtml#b159)
 * Der Eliasberg und der Russellhügel von der zweiten Hochebene des Newton. A. Lager auf der zweiten Hochebene. B. Lager auf der dritten * * Hochebene.
 * Bei der Besteigung des Russellhügels.
 * Der Newtonberg vom Russellhügel aus.
@@ -427,10 +427,10 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Auf dem Agassizgletscher am Abend.](ch008.xhtml#b128a)
 * [Oestliche Ausläufer des S. Elias.](ch008.xhtml#b133)
 * [Auf dem Newtongletscher.](ch008.xhtml#b136)
-* Im Newtonthal — Der Nebel zerteilt sich.
-* Auf den „Séracs“ des Newtongletscher.
-* Biwak auf dem Newtongletscher, S. Elias, Russells Col und Newtonspitze
-* S. Elias. — Der Gipfel von Osten aus gesehen.
+* [Im Newtonthal — Der Nebel zerteilt sich.](ch009.xhtml#b141)
+* [Auf den „Séracs“ des Newtongletscher.](ch009.xhtml#b145)
+* [Biwak auf dem Newtongletscher, S. Elias, Russells Col und Newtonspitze.](ch009.xhtml#b151a)
+* [S. Elias. — Der Gipfel von Osten aus gesehen.](ch009.xhtml#b157)
 * S. Elias, vom Newtonthal aus gesehen.
 * Das Newtonthal, vom Col Russell aus gesehen.
 * Es lebe Italien!

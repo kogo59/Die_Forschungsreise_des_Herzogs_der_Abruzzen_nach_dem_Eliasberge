@@ -356,7 +356,7 @@ zählt 20 besondere Gattungen dieser Flora: 10 Gattungen der sogenannten Eisflor
 und 10 Gattungen solcher, welche dem Schnee ebenso wie dem Eis gemein sind.
 
 :::: { .wrap-100 }
-![Blühender Abhang am Fusse der Hitchcockhügels.](Die_Forschungsreise_119.jpg "Blühender Abhang am Fusse der Hitchcockhügels."){#b119}
+![Blühender Abhang am Fusse des Hitchcockhügels.](Die_Forschungsreise_119.jpg "Blühender Abhang am Fusse der Hitchcockhügels."){#b119}
 ::::
 
 Die Séracs des Sewardgletschers lehnen so dicht an dem Nordausläufer des
