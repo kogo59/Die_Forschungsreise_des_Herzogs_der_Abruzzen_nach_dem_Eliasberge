@@ -592,6 +592,10 @@ Wir waren des Sieges gewiss und thaten unser möglichstes, um ruhig zu bleiben,
 aber das Gefühl, uns dem Ziele so nahe zu wissen, erhielt uns alle in grösster
 Erregung.
 
+:::: { .wrap-100 }
+![S. Elias, vom Newtonthal aus gesehen.](Die_Forschungsreise_160.jpg "S. Elias, vom Newtonthal aus gesehen."){#b160}
+::::
+
 :::
 
 :::: align-center

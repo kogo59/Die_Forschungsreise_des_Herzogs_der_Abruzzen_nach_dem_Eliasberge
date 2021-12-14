@@ -388,12 +388,12 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Lager am Fusse eines Séracs, auf dem dritten Eisfall des Newtongletschers.](ch009.xhtml#b157a)
 * [Der Newtonberg vom dritten Eisfall aus.](ch009.xhtml#b158)
 * [Der Eliasberg vom dritten Eisfall des Newton aus.](ch009.xhtml#b159)
-* Der Eliasberg und der Russellhügel von der zweiten Hochebene des Newton. A. Lager auf der zweiten Hochebene. B. Lager auf der dritten * * Hochebene.
-* Bei der Besteigung des Russellhügels.
-* Der Newtonberg vom Russellhügel aus.
-* Die von der Expedition begangene Region im Westen des Eliasberges, vom Russellhügel aus gesehen.
-* Der Nord-Nordwestkamm des Eliasberges vom Russellhügel aus und der von der Karawane des Herzogs eingeschlagene Weg.
-* Die Logankette vom Gipfel des Eliasberges aus.
+* [Der Eliasberg und der Russellhügel von der zweiten Hochebene des Newton. A. Lager auf der zweiten Hochebene. B. Lager auf der dritten Hochebene.](ch010.xhtml#b162)
+* [Bei der Besteigung des Russellhügels.](ch010.xhtml#b163)
+* [Der Newtonberg vom Russellhügel aus.](ch010.xhtml#b164)
+* [Die von der Expedition begangene Region im Westen des Eliasberges, vom Russellhügel aus gesehen.](ch010.xhtml#b165)
+* [Der Nord-Nordwestkamm des Eliasberges vom Russellhügel aus und der von der Karawane des Herzogs eingeschlagene Weg.](ch010.xhtml#b167)
+* [Die Logankette vom Gipfel des Eliasberges aus.](ch010.xhtml#b174)
 * Uebergang über den Agassiz bei der Rückkehr.
 * Blühender Abhang an der Hitchcockkette
 * Uebergang über den Pinnaclegletscher bei der Rückkehr.
@@ -431,10 +431,10 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Auf den „Séracs“ des Newtongletscher.](ch009.xhtml#b145)
 * [Biwak auf dem Newtongletscher, S. Elias, Russells Col und Newtonspitze.](ch009.xhtml#b151a)
 * [S. Elias. — Der Gipfel von Osten aus gesehen.](ch009.xhtml#b157)
-* S. Elias, vom Newtonthal aus gesehen.
-* Das Newtonthal, vom Col Russell aus gesehen.
-* Es lebe Italien!
-* Auf dem Gipfel des S. Elias
+* [S. Elias, vom Newtonthal aus gesehen.](ch009.xhtml#b160)
+* [Das Newtonthal, vom Col Russell aus gesehen.](ch010.xhtml#b169)
+* [Es lebe Italien!](ch010.xhtml#b172)
+* [Auf dem Gipfel des S. Elias.](ch010.xhtml#b176)
 * Die Logankette, vom S. Elias aus gesehen.
 * Durch den untersten Teil des Hitchcockgletschers beim Abstieg.
 * Rückkehr auf der linken Seite des Sewardgletschers
@@ -451,7 +451,7 @@ am Schlusse des Werkes.
 
 * Die S. Elias- und Cookkette, vom Malaspinagletscher aus gesehen (15&nbsp;km weit von der Mündung des Sewardgletschers, von Südosten).
 * Die St. Elias-Augustakette und die Mündung des Sewardgletschers, von der östlichen Seite des Sewardgletschers aus gesehen.
-* Die östliche und südöstliche Gegend des St. Clias, vom Russelljoch aus gesehen.
+* Die östliche und südöstliche Gegend des St. Elias, vom Russelljoch aus gesehen.
 * Die nördliche Landschaft, vom nordöstlichen Grat des St. Elias (5000&nbsp;m über dem Meeresspiegel aus gesehen).
 
 ## Karten
