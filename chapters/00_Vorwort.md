@@ -394,11 +394,11 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Die von der Expedition begangene Region im Westen des Eliasberges, vom Russellhügel aus gesehen.](ch010.xhtml#b165)
 * [Der Nord-Nordwestkamm des Eliasberges vom Russellhügel aus und der von der Karawane des Herzogs eingeschlagene Weg.](ch010.xhtml#b167)
 * [Die Logankette vom Gipfel des Eliasberges aus.](ch010.xhtml#b174)
-* Uebergang über den Agassiz bei der Rückkehr.
-* Blühender Abhang an der Hitchcockkette
-* Uebergang über den Pinnaclegletscher bei der Rückkehr.
-* Abstieg über einen schneebedeckten Abhang an der Seite des Seward.
-* Logan, Cook und Hubbard, von der Yakutatbai aus.
+* [Uebergang über den Agassiz bei der Rückkehr.](ch011.xhtml#b181)
+* [Blühender Abhang an der Hitchcockkette.](ch011.xhtml#b182)
+* [Uebergang über den Pinnaclegletscher bei der Rückkehr.](ch011.xhtml#b183)
+* [Abstieg über einen schneebedeckten Abhang an der Seite des Seward.](ch011.xhtml#b185)
+* [Logan, Cook und Hubbard, von der Yakutatbai aus.](ch011.xhtml#b192)
 * Sitka vom Hafen aus.
 * Das Sitkabecken
 * Zwischen den Felsbergen von Kanada.
@@ -435,10 +435,10 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Das Newtonthal, vom Col Russell aus gesehen.](ch010.xhtml#b169)
 * [Es lebe Italien!](ch010.xhtml#b172)
 * [Auf dem Gipfel des S. Elias.](ch010.xhtml#b176)
-* Die Logankette, vom S. Elias aus gesehen.
-* Durch den untersten Teil des Hitchcockgletschers beim Abstieg.
-* Rückkehr auf der linken Seite des Sewardgletschers
-* Auf dem Malaspinagletscher — Rückfahrt.
+* [Die Logankette, vom S. Elias aus gesehen.](ch011.xhtml#b180)
+* [Durch den untersten Teil des Hitchcockgletschers beim Abstieg.](ch011.xhtml#b184)
+* [Rückkehr auf der linken Seite des Sewardgletschers.](ch011.xhtml#b189)
+* [Auf dem Malaspinagletscher — Rückfahrt.](ch011.xhtml#b193)
 * S. Elias, von der Yakutatbai aus gesehen.
 * Der letzte Gruss von Alaska.
 * Melanenchytraeus solifugus.

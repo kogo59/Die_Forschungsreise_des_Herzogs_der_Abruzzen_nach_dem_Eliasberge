@@ -442,8 +442,8 @@ erhob sich in einer Entfernung von etwa 200 Meilen nordwestlich eine dritte
 Spitze, auf 311 Grad, die noch höher als die vorhergehende war und eine
 charakteristische, kegelförmige Gestalt hatte. Dieser wurde der Name Bona
 gegeben. Es war dies der Name der Rennjacht des Herzogs, die gerade damals
-einige Siege auf dem Meere erfochten hatte. Diese drei Gipfel, gewiss gegen 5000
-m hoch, wetteifern an Höhe mit dem Eliasberge. keiner derselben verriet
+einige Siege auf dem Meere erfochten hatte. Diese drei Gipfel, gewiss gegen 5000&nbsp;m
+hoch, wetteifern an Höhe mit dem Eliasberge. keiner derselben verriet
 Anzeichen einer vulkanischen Thätigkeit.
 
 Während wir Umschau hielten und uns bemühten, alle Einzelheiten unserem
@@ -460,7 +460,7 @@ vor Augen hatten. Vor diesem wunderbaren Anblick wurden wir von einem düsteren
 Gefühl der Isolierung, der Einsamkeit übermannt, welches die feierliche,
 mächtige Ruhe, die in dieser unendlichen Eiswüste herrschte, hervorrief. Nachdem
 die Aufregung des Sieges überwunden war, empfanden wir, geblendet durch das
-strahlende Licht der Sonne in der kalten Atmosphäre, angegriffen durch ein
+strahlende Licht der Sonne in der kalten Atmosphäre, angegriffen durc5000h ein
 hartnäckiges Uebelbefinden infolge der verdünnten Luft, fröstelnd vor Kälte und
 Müdigkeit, bald nichts mehr als nur den lebhaftesten Wunsch, den Rückweg
 anzutreten.
