@@ -399,9 +399,9 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Uebergang über den Pinnaclegletscher bei der Rückkehr.](ch011.xhtml#b183)
 * [Abstieg über einen schneebedeckten Abhang an der Seite des Seward.](ch011.xhtml#b185)
 * [Logan, Cook und Hubbard, von der Yakutatbai aus.](ch011.xhtml#b192)
-* Sitka vom Hafen aus.
-* Das Sitkabecken
-* Zwischen den Felsbergen von Kanada.
+* [Sitka vom Hafen aus.](ch012.xhtml#b195)
+* [Das Sitkabecken.](ch012.xhtml#b196)
+* [Zwischen den Felsbergen von Kanada.](ch012.xhtml#b198)
 * Einzelne Stücke des Kochapparats.
 * Kochapparat für den Transport bereit.
 * Traggestell Sella.
@@ -439,8 +439,8 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Durch den untersten Teil des Hitchcockgletschers beim Abstieg.](ch011.xhtml#b184)
 * [Rückkehr auf der linken Seite des Sewardgletschers.](ch011.xhtml#b189)
 * [Auf dem Malaspinagletscher — Rückfahrt.](ch011.xhtml#b193)
-* S. Elias, von der Yakutatbai aus gesehen.
-* Der letzte Gruss von Alaska.
+* [S. Elias, von der Yakutatbai aus gesehen.](ch012.xhtml#b197)
+* [Der letzte Gruss von Alaska.](ch012.xhtml#b200)
 * Melanenchytraeus solifugus.
 
 ## Panoramen
