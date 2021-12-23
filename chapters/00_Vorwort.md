@@ -402,9 +402,9 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Sitka vom Hafen aus.](ch012.xhtml#b195)
 * [Das Sitkabecken.](ch012.xhtml#b196)
 * [Zwischen den Felsbergen von Kanada.](ch012.xhtml#b198)
-* Einzelne Stücke des Kochapparats.
-* Kochapparat für den Transport bereit.
-* Traggestell Sella.
+* [Einzelne Stücke des Kochapparats.](ch013.xhtml#b204a)
+* [Kochapparat für den Transport bereit.](ch013.xhtml#b204b)
+* [Traggestell Sella.](ch013.xhtml#b209)
 
 ## Verzeichnis der Tafeln.
 
@@ -441,7 +441,7 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 * [Auf dem Malaspinagletscher — Rückfahrt.](ch011.xhtml#b193)
 * [S. Elias, von der Yakutatbai aus gesehen.](ch012.xhtml#b197)
 * [Der letzte Gruss von Alaska.](ch012.xhtml#b200)
-* Melanenchytraeus solifugus.
+* [Melanenchytraeus solifugus.](ch013.xhtml#b244)
 
 ## Panoramen
 
