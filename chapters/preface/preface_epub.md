@@ -4,7 +4,7 @@
 
 :::: { .align-center .fs-xl .break-after }
 <br /><br /><br /><br /><br /><br />
-Die Forschungsreise S. K. h. des Prinzen Ludwig<br />
+Die Forschungsreise S. K. H. des Prinzen Ludwig<br />
 Amadeus von Savoyen, Herzogs der Abruzzen,<br />
 nach dem Eliasberge in Alaska im Jahre 1897<br />
 ::::

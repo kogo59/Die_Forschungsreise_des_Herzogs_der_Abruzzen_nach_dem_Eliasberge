@@ -449,10 +449,10 @@ Polarmeere so gnädig sein, wie einst die Schneeberge Alaskas!
 am Schlusse des Werkes.
 ::::
 
-* Die S. Elias- und Cookkette, vom Malaspinagletscher aus gesehen (15&nbsp;km weit von der Mündung des Sewardgletschers, von Südosten).
-* Die St. Elias-Augustakette und die Mündung des Sewardgletschers, von der östlichen Seite des Sewardgletschers aus gesehen.
-* Die östliche und südöstliche Gegend des St. Elias, vom Russelljoch aus gesehen.
-* Die nördliche Landschaft, vom nordöstlichen Grat des St. Elias (5000&nbsp;m über dem Meeresspiegel aus gesehen).
+* [Die S. Elias- und Cookkette, vom Malaspinagletscher aus gesehen (15&nbsp;km weit von der Mündung des Sewardgletschers, von Südosten).](ch013.xhtml#b260)
+* [Die St. Elias-Augustakette und die Mündung des Sewardgletschers, von der östlichen Seite des Sewardgletschers aus gesehen.](ch013.xhtml#b261)
+* [Die östliche und südöstliche Gegend des St. Elias, vom Russelljoch aus gesehen.](ch013.xhtml#b262)
+* [Die nördliche Landschaft, vom nordöstlichen Grat des St. Elias (5000&nbsp;m über dem Meeresspiegel aus gesehen).](ch013.xhtml#b263)
 
 ## Karten
 
@@ -460,9 +460,8 @@ am Schlusse des Werkes.
 am Schlusse des Werkes.
 ::::
 
-* Skizze der Gegend des St. Elias nach J. C. Russell (1891).
-* Karte der nordwestlichen Küste von Nordamerika.
-
+* [Skizze der Gegend des St. Elias nach J. C. Russell (1891).](ch013.xhtml#b264)
+* [Karte der nordwestlichen Küste von Nordamerika.](ch013.xhtml#b265)
 
 :::
 

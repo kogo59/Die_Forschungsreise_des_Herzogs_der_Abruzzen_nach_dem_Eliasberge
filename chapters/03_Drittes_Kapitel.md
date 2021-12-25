@@ -274,8 +274,8 @@ Jetzt sind ihre Abkommen ganz verschieden und können sich nicht mehr
 untereinander verstehen.
 
 Während dieses gewaltigen Unwetters wurde Chethl (symbolisiert: Kernbeisser oder
-Erdbeisser, Fringilla coccothraustes) von seiner schwester Ah-gish-ahn-akhon
-getrennt. Chethl rief ihr laut zu: „Du wirst mich nicht wiedersehen, aber du
+Erdbeisser, Fringilla coccothraustes) von seiner Schwester Ah-gish-ahn-akhon
+getrennt. Chethl rief ihr laut zu: ‚Du wirst mich nicht wiedersehen, aber du
 sollst fortan meine Stimme hören!‘ Dann verwandelte er sich in einen ungeheuren
 Vogel und flog nach Südwest, so weit, dass das Auge ihm nicht mehr folgen
 konnte.

@@ -57,12 +57,12 @@ Teil des Lagers auf dem Gletscher.
 ### Photographisches Material.
 
 Ausser 2 kleinen Apparaten für Augenblicksphotographien, die der Herzog und Gonella bei sich führten und die in diesem Verzeichnis nicht mit inbegriffen sind, hatten wir:
-
+g
 1. Eine Camera obscura 30 zu 40 cm, mit 4 Doppelrahmen für Negative und einem rechtwinkeligen Schnellobjektiv (Dallmeyer). 5 Dutzend Platten (Wratten & Wainwright, „London plates“) 30 zu 40 cm.
 <br />&nbsp;&nbsp;&nbsp;2 Rahmen und 4 Dutzend Platten wurden an der Küste zurückgelassen, der übrige Teil des Apparats am Fusse der Moräne. Diese Camera wurde zu einer einzigen Photographie benutzt.
 
 2. Eine Camera (Ross & Co., London) 20 zu 25 cm, mit 12 Doppelrahmen für Negative (Celluloidplatten).
-<br />&nbsp;&nbsp;&nbsp;Ein doppeltanastigmatisches Objektiv (Ross-Goertz) von 324 mm Brennbreite.
+<br />&nbsp;&nbsp;&nbsp;Ein doppeltanastigmatisches Objektiv (Ross-Goertz) von 324&nbsp;mm Brennbreite.
 <br />&nbsp;&nbsp;&nbsp;Einen telephotographischen Apparat (Negativ, Dallmeyer), 162 mm.
 <br />&nbsp;&nbsp;&nbsp;1 gewöhnliches Stativ und ein kleines für Fernphotographie.
 <br />&nbsp;&nbsp;&nbsp;1 dunkelgelbes Blendglas.
@@ -70,7 +70,7 @@ Ausser 2 kleinen Apparaten für Augenblicksphotographien, die der Herzog und Gon
 <br />&nbsp;&nbsp;&nbsp;5 Dutzend do. für Augenblicksphotographien von derselben Firma.
 
 3. Eine Camera Kodak (folding Kodak) 7 zu 5 engl. Zoll, von Eastman & Co., London, mit Schnellobjektio und Stereoskopobjektive.
-<br />&nbsp;&nbsp;&nbsp;20 empfindliche Rollen (Eastman 8 Co.), eine jede zu 32 Aufnahmen. 10 liessen wir an der Küste zurück.
+<br />&nbsp;&nbsp;&nbsp;20 empfindliche Rollen (Eastman & Co.), eine jede zu 32 Aufnahmen. 10 liessen wir an der Küste zurück.
 
 4. Eine Taschenlaterne von roter Leinwand.
 
@@ -120,8 +120,8 @@ Karawane mit den diesbezüglichen Gewichten angeführt:
 :::: fs-xs
 
 ----------------------------------------------------------------------------------
-                                                            Gewicht  Gesamtgewicht  
-                                                                der          in kg          
+                                                            Gewicht  Gesamtgewicht
+                                                                der          in kg
                                                           einzelnen
                                                         Gegenstände
                                                               in kg
@@ -178,7 +178,7 @@ bereits in Blechbüchsen eingeschlossen waren. Das Gesamtgewicht jeder Ration
 betrug 23½ kg, und ihre Zusammensetzung war folgende:
 
 :::: align-center
-*Blechkistchen:*
+<br />*Blechkistchen:*
 ::::
 * 40 vorschriftsmässige Zwiebäcke der Kgl. Marine,
 * italienische Suppen und Teigwaren 1500 g,
@@ -218,8 +218,8 @@ betrug 23½ kg, und ihre Zusammensetzung war folgende:
 * 1 Schachtel Rindertalg ſũr die Schuhe.
 
 20 der 50 Rationen hatten eine etwas andere Zusammenstellung. In den
-Blechkistchen waren statt Maccaroni 10 Zwiebãcke und 450 g Zucker mehr. Den
-betreffenden Säckchen waren 4 Büchsen engl. Suppen und 1 Bũchse Kolabiskuits
+Blechkistchen waren statt Maccaroni 10 Zwiebäcke und 450 g Zucker mehr. Den
+betreffenden Säckchen waren 4 Büchsen engl. Suppen und 1 Büchse Kolabiskuits
 hinzugefügt; ferner 1&nbsp;l Alkohol für die Spirituskocher. Diese Rationen waren für
 den höheren Teil des Gebirges berechnet. Indes haben die Lebensbedingungen in
 der von der Karawane durchquerten Region während der ganzen Reise sich so wenig
@@ -245,7 +245,7 @@ Ausrüstung der amerikanischen Träger        450,0 kg
 ------------------------------------------ ---------
 
 In runder Summe also ein Gewicht von 1400 kg, verteilt auf 4 Schlitten, gezogen
-von 16 Mann, demnach 87,5 kg pro Mann. und etwas mehr als 90 kg, wenn man das
+von 16 Mann, demnach 87,5 kg pro Mann und etwas mehr als 90 kg, wenn man das
 Gewicht der Schlitten selbst hinzurechnet.
 
 Trotz des nicht geringen Gewichts und des schlechten Schnees kamen wir in drei
@@ -292,8 +292,8 @@ Wiederverproviantierung fortwährend wechselte.
 ::: fs-xs
 
 ------------------------------------------------------------------------------------
-Ort wo Ausrüstungsgegenstände hinterlegt wurden               Gewicht        Gewicht  
-                                                                  des            des          
+Ort wo Ausrüstungsgegenstände hinterlegt wurden               Gewicht        Gewicht
+                                                                  des            des
                                                               zurück-  mitgenommenen
                                                            gelassenen         Gepäck
                                                                Gepäck          in kg
@@ -301,11 +301,11 @@ Ort wo Ausrüstungsgegenstände hinterlegt wurden               Gewicht        G
 ------------------------------------------------------- ------------- --------------
 Auf dem Malaspinagletscher                                         -          596,60
 
-Im Unabhängigkeitslager:<br />                                              
+Im Unabhängigkeitslager:<br />
 Zurückgelassen die wasserdichten Kleidungsstücke zum            22,70         573,90
 Durchwaten von Sturzbächen
 
-Im Schlittenlager (am Fusse des Newtongletschers):<br />                      
+Im Schlittenlager (am Fusse des Newtongletschers):<br />
 Kanadische Raketen<br />                                  7,25<br />          <br />
 Teil der Arzneimittel<br />                               7,25<br />          <br />
 Teil des photographischen Materials<br />                 9,00<br />          <br />
@@ -314,12 +314,12 @@ Alpenseile<br />                                         12,00<br />          <b
 Kiste mit Nägeln und Werkzeug<br />                      12,25<br />          <br />
 <br />                                                  146,20<br />          427,70
 
-In der Mitte des zweiten Eisfalls des Newton:<br />                      
+In der Mitte des zweiten Eisfalls des Newton:<br />
 5 eiserne Bettgestelle<br />                             31,75<br />          <br />
 Von der persönlichen Ausstattung<br />                   68,00<br />          <br />
 <br />                                                   99,75<br />          327,95
 
-Im Lager auf der zweiten Hochebene des Newton:<br />                      
+Im Lager auf der zweiten Hochebene des Newton:<br />
 1 Whymperzelt<br />                                      15,00<br />          <br />
 1 geteerte Leinwand<br />                                 3,17<br />          <br />
 1 Petroleumkochofen<br />                                 6,80<br />          <br />
@@ -328,12 +328,12 @@ Kiste mit Essgeschirr<br />                              14,00<br />          <b
 Von der persönlichen Ausstattung<br />                   45,36<br />          <br />
 <br />                                                   85,83<br />          242,12
 
-Auf dem dritten Eisfall des Newton:<br />                      
+Auf dem dritten Eisfall des Newton:<br />
 1 Mummeryzelt<br />                                       6,35<br />          <br />
 Schwarzes Zelt für photographische Zwecke.<br />          8.00<br />          <br />
 <br />                                                   14,35<br />          227,77
 
-Am Fusse des Russellhügels:<br />                      
+Am Fusse des Russellhügels:<br />
 1 Mummeryzelt<br />                                       6,35<br />          <br />
 4 geteerte Leinen<br />                                  12,68<br />          <br />
 5 Zeltteppiche<br />                                      9,00<br />          <br />
@@ -344,7 +344,7 @@ Einen Teil der meteorologischen Instrumente<br />         1,50<br />          <b
 Sanitätsmaterial<br />                                    9,50<br />          <br />
 <br />                                                  104,03<br />          123,74
 
-Auf dem Russellhügel:<br />                      
+Auf dem Russellhügel:<br />
 2 Whymperzelte <br />                                    30,00<br />          <br />
 10 Bettsäcke<br />                                       45,30<br />          <br />
 1 Petroleumofen<br />                                     6,80<br />          <br />
@@ -470,7 +470,7 @@ Umstand, gegen den es keine Abhilfe gab.
 Zweck der Expedition war die Besteigung des Eliasberges, jeder andere Nebenzweck
 musste dem Hauptziele geopfert werden. Alle unsere Kräfte und unsere ganze Zeit
 wurden durch die Märsche und durch die Sorge, Lebensmittel und Lagermaterial so
-rasch als möglich vorwärts zu schaffen, in Anspruch genommen. hierzu kamen die
+rasch als möglich vorwärts zu schaffen, in Anspruch genommen. Hierzu kamen die
 trüben und regnerischen Tage und die Schneefälle, welche eine Serie
 regelmässiger Winkel- oder Azimutalbeobachtungen, die sehr gut hätten mit
 unternommen werden können, verhinderten; deshalb werden nur die auf dem Gipfel
@@ -574,7 +574,7 @@ Erytheme an der Gesichtshaut oder an den Händen erreichten bei niemand einen
 solchen Grad, dass eine Spezialbehandlung notwendig gewesen wäre, vielleicht
 weil die ganze Expedition sich in einer mässigen Höhe über dem Meeresspiegel
 bewegte. Es ist bekannt, dass man heute allgemein geneigt ist, Haut- und
-Augenaffeknonen, die beim der Besteigung von Gletschern sich einstellen, der
+Augenaffektionen, die beim der Besteigung von Gletschern sich einstellen, der
 Thatsache zuzuschreiben, dass in den höheren Regionen das Licht mehr
 ultraviolette Strahlen enthãlt als in den unteren Schichten der Atmosphäre.
 
@@ -793,7 +793,7 @@ beteiligte, erreichte er nicht nur eine Höhe von 6858 m, sondern konnte 6000 m
 über dem Meeresspiegel, zugleich mit dem anderen Führer Louis Pellissier, sich
 der sehr mühevollen Arbeit unterziehen, Stufen in den harten Schnee einzuhauen
 und den schweren Schlitten über schneebedeckte, steile Abhänge zu ziehen. Ich
-weiss nicht, ob er auf dem Eliasberge, 500 in tiefer, lange bei derselben Arbeit
+weiss nicht, ob er auf dem Eliasberge, 500&nbsp;m tiefer, lange bei derselben Arbeit
 ausgehalten hätte.
 
 
@@ -801,7 +801,7 @@ ausgehalten hätte.
 ****
 ::::
 
-## Anhang D.<br />**Bericht über das von der Expedition mitgebrachte zoologische Material.** {#anhc .unnumbered}
+## Anhang D.<br />**Bericht über das von der Expedition mitgebrachte zoologische Material.** {#anhd .unnumbered}
 
 
 :::: align-center
@@ -816,7 +816,7 @@ Von diesen sind zwei zufällig auf den Gletscher geratene, fliegende Insekten,
 die vielleicht von grossen Entfernungen kamen. Es sind: eine Fliege, Syrphus
 arcuatus Fallen, eine in Europa und Nordamerika gemeine Art, wie mir Dr. Hermann
 Giglio Tos vom Museo di Torino schreibt, welcher die Güte hatte, das Tier zu
-untersuchen, und eine Schlupfwespe, Ichneumon hiemalis Cress., welche von herrn
+untersuchen, und eine Schlupfwespe, Ichneumon hiemalis Cress., welche von Herrn
 Dr. Joseph Kriechbaumer vom Münchener Museum bestimmt wurde.
 
 Drei andere gehören zweifellos zur eigentlichen Fauna des Gletschers, nämlich:
@@ -859,7 +859,7 @@ getrennt, am Ende abgestutzt, Oberlippe wenig vorragend, beiderseits zugespitzt.
 Antennen fadenförmĩg, mässig lang und dick, nach dem Tode eingerollt. Mesonotum
 ziemlich flach, fein punktiert, gerunzelt; Schildchen abgestutzt-dreieckig,
 ziemlich flach, an der Basis fast glatt, am Ende runzlig; Metanotum abgerundet,
-deutlich in Felder geteilt, das obere mittlere Feld halboval, sast sechseckig,
+deutlich in Felder geteilt, das obere mittlere Feld halboval, fast sechseckig,
 grösser, die Basis fast erreichend, die oberen seitlichen Felder voneinander
 kaum getrennt, das vordere quer, rechteckig, das hintere dreieckig, das hintere
 mittlere Feld gross, fast sechseckig, unten mit einigen abgekürzten wenig
@@ -910,7 +910,7 @@ von Packard^[^1112]^, Mitopus biceps von Thorell^[^1113]^ und Taracus Packardi v
 alle aus zentralen Gegenden der Vereinigten Staaten.
 
 Wenn wir auch andere arktische Gegenden berücksichtigen wollen, so ist das
-Vorkommen von Oligolophus oder Mitopus alpinus Herbst in Grönland und Lappland.
+Vorkommen von Oligolophus oder Mitopus alpinus Herbst in Grönland und Lappland
 von dessen Abart borealis Thor. bis nahe am Nordkap auf der Insel Maasoẽ sowie
 von M. morio Fabr. und Phalangium Nordenskiöldi L. Koch (Opilio funestus K.) in
 Westsibirien^[^1115]^ bekannt. Eine grössere Zahl von Opilioniden vom äussersten
@@ -977,7 +977,7 @@ glatt. Augen schwarz, oval, gross, voneinander ein wenig getrennt. Mandibeln
 behaart, ihr erstes Glied cylindrisch, das zweite grösser, an der Basis mit
 einem stumpfen senkrechten Hörnchen, nach innen mit einer schlankeren Apophyse
 versehen; die Finger am Ende gekreuzt. Femoraler Abschnitt der Palpen nach dem
-Ende zu dicker werdend, schwach gekrümmt, mit kurzen haaren sparsam bekleidet;
+Ende zu dicker werdend, schwach gekrümmt, mit kurzen Haaren sparsam bekleidet;
 patellarer Abschnitt drehrund, so lang wie der vorige, dichter behaart und
 schwarz, beim Männchen unten und innen mit einem präapikalen zahnförmigen höcker
 bewaffnet; tibialer Abschnitt schlanker, mit einem Haarbüschel; tarsaler
@@ -1116,7 +1116,7 @@ bezeichnen können, bietet keine merkliche Erweiterung dar und setzt sich
 grenzlos in dem eigentlichen Darm fort. In meinen Präparaten sind die langen
 Wimpern des Darmepithels gut sichtbar (Fig. 5 ei).
 
-Ich fand im Darm mehrere Exemplare eines Infusoriums aus dem Genus Ano-plophrya,
+Ich fand im Darm mehrere Exemplare eines Infusoriums aus dem Genus Anoplophrya,
 das ich auf Fig. 18 gezeichnet habe; ich konnte auf seiner Oberfläche keine
 Wimpern erkennen, obschon die der benachbarten Darmepithelien sehr gut erhalten
 waren. In denselben Exemplaren des Wurmes fanden sich, ebenfalls im Darm,
@@ -1432,7 +1432,7 @@ hat:
 
 Das absolute Alter dieser Systeme ist nur für eines derselben bekannt; in der
 Formation des Pinnacle hat Russell marine Petrefakten gefunden, die ohne
-Aus-nahme den jetzt an den Küsten Alaskas lebenden Species angehören. Die
+Ausnahme den jetzt an den Küsten Alaskas lebenden Species angehören. Die
 Schichten, in welchen sie sich vorfanden, sind deshalb eine jüngere Bildung; es
 ist wahrscheinlich, dass dieselbe zum Pleistocän gehört, gewiss ist sie aber
 nicht älter als der Pliocän. Als Russell auf seiner zweiten Reise die Chaixhügel
@@ -1744,7 +1744,6 @@ Macoma sabulosa Spengler.
 Die Manbyspitze befindet sich ungefähr in der Mitte des moränischen Stirnbogens
 des Malaspinagletschers, in einer solchen Lage jedoch, dass man annehmen müsste,
 sie bestehe hauptsächlich aus demjenigen Material, das der Sewardgletscher
-
 hingebracht hat. Dennoch kann man zu keiner bestimmten Annahme über die Herkunft
 des Materials gelangen, denn der Seward wird bei seinem Einfluss in den
 Malaspina von den Samovarhügeln und den Hügeln des Pinnaclepasses begrenzt, die
@@ -1794,7 +1793,7 @@ stammen.
 ::::
 
 
-## Anhang F.<br />**Bibliographisches Verzeichnis.** {#anha .unnumbered}
+## Anhang F.<br />**Bibliographisches Verzeichnis.** {#anhf .unnumbered}
 
 :::: align-center
 **Publikationen allgemeinen Inhalts über Alaska.**
@@ -1855,7 +1854,7 @@ Proceedings of the Royal Geographical Society, vol. XIIl, 1891, n. 2.
 
 * W. Williams. Climbing mount St. Elias. — Scribner's Magazine, April 1889; in Mountain Climbing. — The out of door Library, Scribner, New York 1897.
 
-* I. C. Russell. 1. An expedition to mount St. Elias, Alaska. — The National Geographic Magazine, vol. IIl, 1891. — 2. The expedition of the National Geographical Society and the U. S. Geological Survey (1890). — The CLentury Magazine, April 1891.
+* I. C. Russell. 1. An expedition to mount St. Elias, Alaska. — The National Geographic Magazine, vol. IIl, 1891. — 2. The expedition of the National Geographical Society and the U. S. Geological Survey (1890). — The Century Magazine, April 1891.
 
 * M. B. Kerr. Mount St. Elias and its Glaciers. — Scribner's Magazine, March 1891; in Mountain Climbing. — The out of door Library, Scribner, New York 1897.
 
@@ -1870,11 +1869,35 @@ Proceedings of the Royal Geographical Society, vol. XIIl, 1891, n. 2.
 ****
 ::::
 
-
 :::
 
 :::: { .break-before .align-center .fs-xs }
 <br /><br /><br /><br /><br /><br />Druck von J. J. Weber in Leipzig.<br /><br /><br /><br /><br /><br />
+::::
+
+
+:::: { .wrap-100 .break-before }
+![Die S. Elias- und Cookkette, vom Malaspinagletscher aus gesehen (15&nbsp;km weit von der Mündung des Sewardgletschers, von Südosten).](Die_Forschungsreise_260.jpg "Die S. Elias- und Cookkette, vom Malaspinagletscher aus gesehen (15&nbsp;km weit von der Mündung des Sewardgletschers, von Südosten)."){#b260}
+::::
+
+:::: { .wrap-100  }
+![Die St. Elias-Augustakette und die Mündung des Sewardgletschers, von der östlichen Seite des Sewardgletschers aus gesehen.](Die_Forschungsreise_261.jpg "Die St. Elias-Augustakette und die Mündung des Sewardgletschers, von der östlichen Seite des Sewardgletschers aus gesehen."){#b261}
+::::
+
+:::: { .wrap-100 .break-before }
+![Die östliche und südöstliche Gegend des St. Elias, vom Russelljoch aus gesehen.](Die_Forschungsreise_262.jpg "Die östliche und südöstliche Gegend des St. Elias, vom Russelljoch aus gesehen."){#b262}
+::::
+
+:::: { .wrap-100 }
+![Die nördliche Landschaft, vom nordöstlichen Grat des St. Elias (5000&nbsp;m über dem Meeresspiegel aus gesehen).](Die_Forschungsreise_263.jpg "Die nördliche Landschaft, vom nordöstlichen Grat des St. Elias (5000&nbsp;m über dem Meeresspiegel aus gesehen)."){#b263}
+::::
+
+:::: { .wrap-100 .break-before }
+![Skizze der Gegend des St. Elias nach J. C. Russell (1891).](Die_Forschungsreise_264.jpg "Skizze der Gegend des St. Elias nach J. C. Russell (1891)."){#b264}
+::::
+
+:::: { .wrap-100 .break-before }
+![Karte der nordwestlichen Küste von Nordamerika.](Die_Forschungsreise_265.jpg "Karte der nordwestlichen Küste von Nordamerika."){#b265}
 ::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
@@ -1891,7 +1914,7 @@ Proceedings of the Royal Geographical Society, vol. XIIl, 1891, n. 2.
 
 [^1105]: [*Joseph Kriechbaumer*: vergleiche [Joseph Kriechbaumer](https://de.wikipedia.org/wiki/Joseph_Kriechbaumer))]{.footnote}
 
-[^1106]: [*Pietro Pavesi*: vergleiche [Pietro Pavesi](https://de.wikipedia.org/wiki/Pietro_Pavesi))]{.footnote}
+[^1106]: [*Pietro Pavesi*: vergleiche [Pietro Pavesi](https://de.wikipedia.org/wiki/Pietro_Pavesi)]{.footnote}
 
 [^1107]: [Neue Spinnen aus Amerika, V, Wien 1884; Die Spinnen Amerikas, Bd. II, I. Hälfte, Nürnberg 1880.]{.footnote}
 
@@ -1911,7 +1934,7 @@ Proceedings of the Royal Geographical Society, vol. XIIl, 1891, n. 2.
 
 [^1115]: [L. Koch, Uebersicht der von Dr. Finsch in Westsibirien gesammelten Arachniden, Wien 1878; Simon, Liste des Arachnides recueillis par M. Rabot dans la Sibérie occidentale en 1800, Paris 1801.]{.footnote}
 
-[^1116]: [Arachniden aus Sibirien und Novaja Semlja eingesammelt von der Schwed. Exped. im Jahre 1875. Stockholm 1879.
+[^1116]: [Arachniden aus Sibirien und Novaja Semlja eingesammelt von der Schwed. Exped. im Jahre 1875. Stockholm 1879.]{.footnote}
 
 [^1117]: [Les Arachnides de France, Band VIII (Seite 277), Paris 1870.]{.footnote}
 
