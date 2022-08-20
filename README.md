@@ -22,3 +22,6 @@ before January 1, 1925.
 
 # Sources
 Die Forschungsreise des Herzogs der Abruzzen nach dem Eliasberge. [archive.org](https://archive.org/details/dieforschungsre00filigoog/page/n13/mode/2up)
+
+# ePUB
+Die Forschungsreise des Herzogs der Abruzzen nach dem Eliasberge. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=343930)
