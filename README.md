@@ -1,5 +1,7 @@
 # Die Forschungsreise des Herzogs der Abruzzen nach dem Eliasberge.
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193430726-528b3c85-9f04-476b-abaf-1e604d4afc11.jpg">
+
 This is a git repository of the source files for the book "Die Forschungsreise des Herzogs der Abruzzen nach dem Eliasberge."
 
 Author:
