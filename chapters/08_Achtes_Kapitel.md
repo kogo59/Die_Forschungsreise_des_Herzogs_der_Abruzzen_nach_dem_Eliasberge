@@ -491,10 +491,5 @@ Zwischenfälle die obere Hochebene des Newton.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Quintinus Sella*: vergleiche [Quintino Sella](https://de.wikipedia.org/wiki/Quintino_Sella)]{.footnote}

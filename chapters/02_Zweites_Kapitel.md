@@ -375,11 +375,6 @@ Arbeit unmöglich macht.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Veit Bering*: vergleiche [Vitus Bering](https://de.wikipedia.org/wiki/Vitus_Bering)]{.footnote}
 

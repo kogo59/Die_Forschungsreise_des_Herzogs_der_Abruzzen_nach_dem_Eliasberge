@@ -597,9 +597,3 @@ Erregung.
 ::::
 
 :::
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

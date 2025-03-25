@@ -939,10 +939,4 @@ Hitchcockhügel stets das „Unabhängigkeitslager“.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0500]: [*Karl Emery*: vergleiche [Carlo Emery](https://de.wikipedia.org/wiki/Carlo_Emery)]{.footnote}

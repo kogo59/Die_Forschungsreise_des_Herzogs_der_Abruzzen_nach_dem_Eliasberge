@@ -419,11 +419,6 @@ konnten an die Lösung der uns gestellten Aufgabe gehen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Muirgletscher*: vergleiche [Muir-Gletscher](https://de.wikipedia.org/wiki/Muir-Gletscher)]{.footnote}
 

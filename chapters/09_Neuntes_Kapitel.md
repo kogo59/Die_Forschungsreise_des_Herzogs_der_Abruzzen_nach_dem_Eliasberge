@@ -418,8 +418,3 @@ Eliasberges ragte majestätisch in den blauen Himmel.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

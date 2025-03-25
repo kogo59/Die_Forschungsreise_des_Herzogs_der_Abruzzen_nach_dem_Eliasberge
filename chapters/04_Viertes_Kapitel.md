@@ -603,11 +603,6 @@ Führung und Leitung des Herzogs der Abruzzen anschickten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Fairweatherkette*: vergleiche [Fairweather Range](https://de.wikipedia.org/wiki/Fairweather_Range)]{.footnote}
 

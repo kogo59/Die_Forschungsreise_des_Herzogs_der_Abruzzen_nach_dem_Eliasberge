@@ -764,11 +764,6 @@ Regen nicht alles verderben möchten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [*Sewardgletscher*: vergleiche [Sewardgletscher](https://de.wikipedia.org/wiki/Sewardgletscher)]{.footnote}
 

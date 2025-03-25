@@ -427,11 +427,6 @@ bis Sitka, der Hauptstadt Alaskas, fortsetzten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Herzog der Abruzzen*: vergleiche [Luigi Amadeo von Savoyen](https://de.wikipedia.org/wiki/Luigi_Amedeo_di_Savoia-Aosta)]{.footnote}
 

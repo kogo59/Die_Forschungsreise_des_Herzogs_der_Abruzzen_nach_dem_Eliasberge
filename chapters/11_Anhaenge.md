@@ -1900,8 +1900,6 @@ Proceedings of the Royal Geographical Society, vol. XIIl, 1891, n. 2.
 ![Karte der nordwestlichen Küste von Nordamerika.](Die_Forschungsreise_265.jpg "Karte der nordwestlichen Küste von Nordamerika."){#b265}
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1100]: [*Anglo Mosso*: vergleiche [Angelo Mosso](https://de.wikipedia.org/wiki/Angelo_Mosso)]{.footnote}
 
 [^1101]: [*Martin Conway*: vergleiche [Martin Conway, 1. Baron Conway of Allington](https://de.wikipedia.org/wiki/Martin_Conway,_1._Baron_Conway_of_Allington)]{.footnote}
@@ -1912,7 +1910,7 @@ Proceedings of the Royal Geographical Society, vol. XIIl, 1891, n. 2.
 
 [^1104]: [*E. A. FitzGerald*: vergleiche [Edward FitzGerald](https://en.wikipedia.org/wiki/Edward_FitzGerald_(mountaineer))]{.footnote}
 
-[^1105]: [*Joseph Kriechbaumer*: vergleiche [Joseph Kriechbaumer](https://de.wikipedia.org/wiki/Joseph_Kriechbaumer))]{.footnote}
+[^1105]: [*Joseph Kriechbaumer*: vergleiche [Joseph Kriechbaumer](https://de.wikipedia.org/wiki/Joseph_Kriechbaumer)]{.footnote}
 
 [^1106]: [*Pietro Pavesi*: vergleiche [Pietro Pavesi](https://de.wikipedia.org/wiki/Pietro_Pavesi)]{.footnote}
 
