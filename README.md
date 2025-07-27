@@ -10,6 +10,9 @@ Author:
 
 * [Prince Luigi Amedeo, Duke of the Abruzzi](https://en.wikipedia.org/wiki/Prince_Luigi_Amedeo,_Duke_of_the_Abruzzi) (1873—1933)
 
+Translator:
+
+* [Locella, Guglielmo Baron](https://biographien.ac.at/oebl/oebl_L/Locella_Guglielmo_1848_1908.xml) (1848-1908)
 
 # Licenses
 The authors died in 1933, 1938, so this work is in the public domain in its country of
